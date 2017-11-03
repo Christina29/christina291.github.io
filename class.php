@@ -31,7 +31,7 @@ function header()
 <br><br>
 <a href="orderform_4.php"> Четвертая лабораторная рaбота </a>
 <br><br>
-<a href="index_5.php"> Пятая лабораторная рaбота </a>
+<a href="orderform_5"> Пятая лабораторная рaбота </a>
 <br><br>
 <a href="index_6.php"> Шестая лабораторная рaбота </a>
 

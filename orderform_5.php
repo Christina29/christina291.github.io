@@ -4,7 +4,7 @@ require('page_5.inc');
 class OrderformPage extends Page 
 
 {
-	var $row2buttons=array ('Re-engineering'=>'reengineering.php','Standarts Compliance'=>'standards','Buzzword Compliance'=>'buzzword.php','Mission Statements'=>'mission');
+	var $row2buttons=array ('Re-engineering'=>'reengineering.php','Standarts Compliance'=>'standards.php','Buzzword Compliance'=>'buzzword.php','Mission Statements'=>'mission.php');
 	
 	function Display()
 	

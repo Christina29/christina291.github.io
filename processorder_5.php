@@ -58,6 +58,7 @@ class OrderformPage extends Page
 		else {echo "<br> —оединение с сервером базы данных прошло успешно<br>";}
 		
 	}
+	
 ?>
 	<html>
 <head>
